@@ -2,7 +2,7 @@
 
 This object detection project was made during my internship at Universitat Rovira i Virgili, Catalunya, Spain. The goal is to detect and classify road damage with images taken from inside a car.
 
-![](/readme_img/crack2.png) ![](/readme_img/example_image.png)
+![](/readme_img/crack2.png)
 
 The following tutorial will help you reproduce the work and train models using YoloV5 on the [Global Road Damage Detection Challenge](https://github.com/sekilab/RoadDamageDetector) Datasets from 2018 and 2020.
 
