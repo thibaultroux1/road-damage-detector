@@ -1,0 +1,9 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: ../RDD_Dataset_2020_Yolo/images/train  # train images (relative to 'path')
+val: ../RDD_Dataset_2020_Yolo/images/val  # val images (relative to 'path') 
+# test:  # test images (optional)
+
+# Classes
+nc: 4  # number of classes
+names: ["D00", "D10", "D20", "D40"]  # class names
